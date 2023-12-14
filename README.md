@@ -19,6 +19,8 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />  
 </div><br />
 
+Apaixonado por tecnologia
+
 ## Projeto em andamento...
 
-Para fins de estudo, atualmente estou estrutuando um backend para aplicar conceitos como: arquitetura de software (clean architecture), design patterns, clean code, conteinerizar uma aplicação, REST API, AWS, mensageiria, e mais algumas coisas que der vontade hehe
+Para fins de estudo, atualmente estou estrutuando um backend para aplicar conceitos como: arquitetura de software (clean architecture), design patterns, clean code, conteinerizar uma aplicação, REST API, AWS, mensageiria, e o que der vontade tbm hehe
