@@ -20,6 +20,6 @@
 
 Apaixonado por tecnologia, codando desde 2019 e sempre buscando aprender coisas novas. <3
 
-### Projeto em andamento...
+### 🔄 Projeto em andamento...
 
 Para fins de estudo, atualmente estou estrutuando um backend para aplicar conceitos como: arquitetura de software (clean architecture), design patterns, clean code, conteinerizar uma aplicação, REST API, AWS, mensageiria, e o que der vontade tbm hehe
