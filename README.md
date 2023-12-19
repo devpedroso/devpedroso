@@ -1,4 +1,4 @@
-### Olá! Eu sou o Filipe Pedroso ou somente "Pedroso" 🤙
+## Olá! Eu sou o Filipe Pedroso ou somente "Pedroso" 🤙
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-pedroso/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fi.pedroso/)
@@ -6,7 +6,7 @@
 
 ![Pedroso GitHub stats](https://github-readme-stats.vercel.app/api?username=devpedroso&show_icons=true&theme=highcontrast)
 
-## ⚒️ Tecnologias que utilizo no meu dia
+### ⚒️ Tecnologias que utilizo no meu dia
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,6 +20,6 @@
 
 Apaixonado por tecnologia, codando desde 2019 e sempre buscando aprender coisas novas. <3
 
-## Projeto em andamento...
+### Projeto em andamento...
 
 Para fins de estudo, atualmente estou estrutuando um backend para aplicar conceitos como: arquitetura de software (clean architecture), design patterns, clean code, conteinerizar uma aplicação, REST API, AWS, mensageiria, e o que der vontade tbm hehe
